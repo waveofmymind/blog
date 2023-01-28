@@ -1,0 +1,10 @@
+jwt:
+  secret: dsodkopwkfpowfvndlfknvneroigjreoijfgoierjf3oi2jio2jio432jo5jio65j235io23jroi23jo2irjo
+
+  access:
+    expiration: 80
+    header: Authorization
+
+  refresh:
+    expiration: 90
+    header: Authorization-refresh
